@@ -5,7 +5,7 @@ import struct
 import json
 import os
 
-pName = 'TR_GP_Donate'
+pName = 'TR_GP_Donate-1'
 pVersion = '1.0'
 
 gui = QtBind.init(__name__,pName)
